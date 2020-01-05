@@ -1,2 +1,2 @@
-# Historical MusicAnalysis
-Gathers the names and lyrics of the most popular songs in a a 20 year period, and then collects the lyrics for aforementioned songs. Then NLTK is used to get the most frequent words in the song lyrics to try and look for possible trends. The titles are from Billboard and lyrics are obtained from Genius.
+# Historical Music Analysis
+Gathers the names and lyrics of the most popular songs in a a 20 year period. NLTK is then used to get a frequency distribution for the collection. The goal of this is to look for trends that could potentially be reproduced in future music and to gain insight into what patterns lyrically make music popular. The titles are from Billboard and lyrics are obtained from Genius.
